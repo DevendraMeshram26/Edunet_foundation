@@ -1,4 +1,3 @@
-# Edunet_foundation
 # Energy Consumption Prediction
 
 ## Project Overview
