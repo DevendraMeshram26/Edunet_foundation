@@ -27,7 +27,7 @@ This project aims to predict energy consumption based on various factors such as
    - Performance evaluation using MAE, MSE, R² Score
 
 ## Results
-- The best model was **[Linear Regression]** with an R² score of **[ 0.5967100801907437]**.
+- The best model was **Linear Regression** with an R² score of **0.5967100801907437**.
 - The model showed good accuracy in predicting energy consumption.
 
 ## Future Enhancements
