@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost tensorflow
 ```
 
 ## Author
-- **[Devendra Meshram]**
+- **Devendra Meshram**
 
 Feel free to contribute and improve this project!
 
